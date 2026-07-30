@@ -1,1 +1,104 @@
+{
+  "stream_url": "http://server25.srvsh.com.br:7412/stream",
+  "app_name": "Rádio Gouveia para Cristo",
+  "logo_url": "https://i.ibb.co/Fkys01r6/ic-launcher-playstore.png",
+  "background_url": "https://i.ibb.co/WpFQdzLV/bg-image.jpg",
+  "bg_tint_color": "#0c0c0c",
+  "bg_tint_opacity": 0.68,
+  "live_badge_text": " Ao Vivo",
+  "live_badge_color": "#09001d",
+  "accent_color": "#000d13",
+  "autoplay": true,
+  "enable_banners": true,
+  "enable_social": true,
+  "enable_recording": true,
+  "enable_timer": true,
+  "enable_volume_bar": true,
+  "enable_metadata": true,
+  "enable_album_art": false,
+  "enable_album_view": true,
+  "banner_interval_ms": 7000,
+  "sponsor_label": "Nossos horários",
 
+  "enable_tv": true,
+  "tv_url": "link da transmissao aqui",
+  "tv_label": "TV Ao Vivo",
+
+  "banners": [
+    {
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/s9qDGMc6/1sa.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/BpcYjCx/2sa.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/PZm74TVD/3ea362ea-fbe5-4c4a-be0a-798941e12721.jpg",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 4",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/qLbJsnfb/1-aw.png",
+      "click_url": "https://wa.me/"
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "bg_color": "#111111",
+      "text_color": "#FFFFFF",
+      "image_url": "https://i.ibb.co/9kxyk0tJ/2-aw.png",
+      "click_url": "https://youtube.com/"
+    },
+    {
+      "title": "PATROCINADOR 6",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/xKkJRJcJ/3-aw.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 7",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/xSBw70jX/4-aw.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 8",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/JLW18Dn/5-aw.png",
+      "click_url": ""
+    }
+  ],
+
+  "social_icons": [
+    {
+      "icon": "whatsapp",
+      "url": "https://wa.me/55"
+    },
+    {
+      "icon": "instagram",
+      "url": "https://www.instagram.com/"
+    }
+  ]
+}
