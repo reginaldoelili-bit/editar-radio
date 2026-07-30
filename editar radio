@@ -30,7 +30,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/s9qDGMc6/1sa.png",
       "click_url": " "
     },
     {
@@ -38,7 +38,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/BpcYjCx/2sa.png",
       "click_url": ""
     },
     {
@@ -46,7 +46,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/PZm74TVD/3ea362ea-fbe5-4c4a-be0a-798941e12721.jpg",
       "click_url": "https://"
     },
     {
@@ -54,7 +54,7 @@
       "subtitle": "Clique e fale no WhatsApp",
       "bg_color": "#FDCB03",
       "text_color": "#000000",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/qLbJsnfb/1-aw.png",
       "click_url": "https://wa.me/"
     },
     {
@@ -62,8 +62,32 @@
       "subtitle": "",
       "bg_color": "#111111",
       "text_color": "#FFFFFF",
-      "image_url": "https://i.ibb.co/pvkGM8xN/anuncie-aqui.png",
+      "image_url": "https://i.ibb.co/9kxyk0tJ/2-aw.png",
       "click_url": "https://youtube.com/"
+    },
+{
+      "title": "PATROCINADOR 1",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/xKkJRJcJ/3-aw.png",
+      "click_url": " "
+    },
+    {
+      "title": "PATROCINADOR 2",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/xSBw70jX/4-aw.png",
+      "click_url": ""
+    },
+    {
+      "title": "PATROCINADOR 3",
+      "subtitle": "Clique e fale no WhatsApp",
+      "bg_color": "#FDCB03",
+      "text_color": "#000000",
+      "image_url": "https://i.ibb.co/JLW18Dn/5-aw.png",
+      "click_url": "https://"
     }
   ],
 
