@@ -20,7 +20,7 @@
   "banner_interval_ms": 7000,
   "sponsor_label": "Nossos horários",
 
-  "enable_tv": true,
+  "enable_tv": false,
   "tv_url": "link da transmissao aqui",
   "tv_label": "TV Ao Vivo",
 
@@ -94,7 +94,7 @@
   "social_icons": [
     {
       "icon": "whatsapp",
-      "url": "https://wa.me/55"
+      "url": "https://wa.me/5538999435090"
     },
     {
       "icon": "instagram",
